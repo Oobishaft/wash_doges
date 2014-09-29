@@ -2,7 +2,7 @@ wash_doges
 ==========
 
 If you got here you know damn right what it is.  
-Please do not download this ~~cancer~~ awesome game, this is nothing near to a serious project, and doesn't even follow git rules. Sorry whoever needs to deal with it.
+Please do not download this ~~cancer~~ awesome game, this is nothing near a serious project, and doesn't even follow git's rules. Sorry whoever needs to deal with it.
 
 ###How to compile
 
