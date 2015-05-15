@@ -1,4 +1,4 @@
-wash_doges
+Stop This Shit 3: Remastered.
 ==========
 
 If you got here you know damn right what it is.  
